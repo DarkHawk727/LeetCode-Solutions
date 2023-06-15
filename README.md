@@ -6,7 +6,7 @@ I am working through the [neetcode.io](https://neetcode.io/roadmap) roadmap.
 
 ## Checklist
 
-- **Arrays & Hashing**
+- ~~**Arrays & Hashing**~~
   - [X] Contains Duplicate
   - [X] Valid Anagram
   - [X] Two Sum
