@@ -23,7 +23,7 @@ I am working through the [neetcode.io](https://neetcode.io/roadmap) roadmap.
   - [ ] Container With Most Water
   - [ ] Trapping Rain Water
 - **Stack**
-  - [ ] Valid Parentheses
+  - [X] Valid Parentheses
   - [ ] Min Stack
   - [ ] Evaluate Reverse Polish Notation
   - [ ] Generate Parentheses
