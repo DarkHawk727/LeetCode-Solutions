@@ -15,7 +15,7 @@ I am working through the [neetcode.io](https://neetcode.io/roadmap) roadmap.
   - [X] Product of Array Except Self
   - [X] Valid Sudoku
   - [X] Encode and Decode Strings
-  - [ ] Longest Consecutive Sequence
+  - [X] Longest Consecutive Sequence
 - **Two Pointers**
   - [ ] Valid Palindrome
   - [ ] TwoSum II Input Array Is Sorted
