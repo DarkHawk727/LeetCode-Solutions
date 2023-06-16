@@ -24,8 +24,8 @@ I am working through the [neetcode.io](https://neetcode.io/roadmap) roadmap.
   - [ ] Trapping Rain Water
 - **Stack**
   - [X] Valid Parentheses
-  - [ ] Min Stack
-  - [ ] Evaluate Reverse Polish Notation
+  - [X] Min Stack
+  - [X] Evaluate Reverse Polish Notation
   - [ ] Generate Parentheses
   - [ ] Daily Temperatures
   - [ ] Car Fleet
