@@ -1,8 +1,26 @@
 # LeetCode-Solutions
 
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
-
 I am working through the [neetcode.io](https://neetcode.io/roadmap) roadmap.
+Each file should be of the following format:
+
+```py
+import libraries
+
+
+class Solution:
+  def function():
+    pass
+
+
+"""
+Algorithm:
+Explanation of the Algorithm.
+
+Time Complexity:
+Explanation of the time complexity.
+"""
+
+```
 
 ## Checklist
 
