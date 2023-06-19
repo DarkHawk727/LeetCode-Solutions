@@ -35,7 +35,7 @@ Explanation of the time complexity.
   - [X] Encode and Decode Strings
   - [X] Longest Consecutive Sequence
 - **Two Pointers**
-  - [ ] Valid Palindrome
+  - [X] Valid Palindrome
   - [ ] TwoSum II Input Array Is Sorted
   - [ ] 3Sum
   - [ ] Container With Most Water
