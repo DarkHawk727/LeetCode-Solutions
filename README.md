@@ -46,7 +46,7 @@ Explanation of the time complexity.
   - [X] Evaluate Reverse Polish Notation
   - [X] Generate Parentheses
   - [X] Daily Temperatures
-  - [ ] Car Fleet
+  - [X] Car Fleet
   - [ ] Largest Rectangle in Histogram
 - **Binary Search**
   - [ ] Binary Search
