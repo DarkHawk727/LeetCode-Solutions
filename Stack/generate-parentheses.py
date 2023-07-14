@@ -26,7 +26,7 @@ class Solution:
 """
 Algorithm:
 If open = close = n, then we return.
-IIf close < open, then we append a ), backtrack, and pop it from the stack.
+If close < open, then we append a ), backtrack, and pop it from the stack.
 
 Time Complexity:
 O(2^(2n)*n) cause recursion.

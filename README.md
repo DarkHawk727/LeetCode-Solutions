@@ -44,8 +44,8 @@ Explanation of the time complexity.
   - [X] Valid Parentheses
   - [X] Min Stack
   - [X] Evaluate Reverse Polish Notation
-  - [ ] Generate Parentheses
-  - [ ] Daily Temperatures
+  - [X] Generate Parentheses
+  - [X] Daily Temperatures
   - [ ] Car Fleet
   - [ ] Largest Rectangle in Histogram
 - **Binary Search**
