@@ -12,6 +12,9 @@ class Solution:
     pass
 
 
+sol = Solution()
+print(sol.function(args))
+
 """
 Algorithm:
 Explanation of the Algorithm.
