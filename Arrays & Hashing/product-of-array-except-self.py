@@ -17,6 +17,10 @@ class Solution:
         return ans
 
 
+sol = Solution()
+print(sol.productExceptSelf(nums=[1, 2, 3, 4]))
+print(sol.productExceptSelf(nums=[-1, 1, 0, -3, 3]))
+
 """
 Algorithm:
 We initialize an arrays of 1's of length of nums. We then loop through nums

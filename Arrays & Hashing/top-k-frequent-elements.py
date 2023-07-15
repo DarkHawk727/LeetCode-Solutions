@@ -20,6 +20,10 @@ class Solution:
                 return ans
 
 
+sol = Solution()
+print(sol.topKFrequent(nums=[1, 1, 1, 2, 2, 3], k=2))
+print(sol.topKFrequent(nums=[1], k=1))
+
 """
 Algorithm:
 We create a dictionary of the format: {number: count}

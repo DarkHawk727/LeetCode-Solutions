@@ -3,6 +3,10 @@ class Solution:
         return sorted(s) == sorted(t)
 
 
+sol = Solution()
+print(sol.isAnagram(s="anagram", t="nagaram"))
+print(sol.isAnagram(s="rat", t="car"))
+
 """
 Algorithm:
 We sort s and t by alphabetical order and check if they are equal. 

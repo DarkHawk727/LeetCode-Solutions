@@ -23,6 +23,10 @@ class Solution:
         return ans
 
 
+sol = Solution()
+print(sol.generateParenthesis(n=3))
+print(sol.generateParenthesis(n=1))
+
 """
 Algorithm:
 If open = close = n, then we return.

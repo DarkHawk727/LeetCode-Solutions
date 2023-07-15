@@ -18,6 +18,15 @@ class MinStack:
         return self.minsofar[-1]
 
 
+m = MinStack()
+m.push(-2)
+m.push(0)
+m.push(-3)
+m.getMin()  # return -3
+m.pop()
+m.top()  # return 0
+m.getMin()  # return -2
+
 """
 Algorithm:
 We create a regular stack with its associated operations. The addition is of

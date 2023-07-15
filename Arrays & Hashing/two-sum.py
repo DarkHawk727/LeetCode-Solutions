@@ -11,6 +11,11 @@ class Solution:
             number_map[nums[i]] = i
 
 
+sol = Solution()
+print(sol.twoSum(nums=[2, 7, 11, 15], target=9))
+print(sol.twoSum(nums=[3, 2, 4], target=6))
+print(sol.twoSum(nums=[3, 3], target=6))
+
 """
 Algorithm:
 We define a hashmap called number_map of the following format:

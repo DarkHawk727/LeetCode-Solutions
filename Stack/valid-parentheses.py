@@ -14,6 +14,11 @@ class Solution:
         return not stack
 
 
+sol = Solution()
+print(sol.isValid(s="()"))
+print(sol.isValid(s="()[]{}"))
+print(sol.isValid(s="(]"))
+
 """
 Algorithm:
 We go through each element in s, if said element is not in the map, we append it

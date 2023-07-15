@@ -8,9 +8,15 @@ class Solution:
         for index, temp in enumerate(temperatures):
             while stack and temp > stack[-1][0]:
                 stack_temp, stack_index = stack.pop()
-                ans[stack_index] = (index - stack_index)
+                ans[stack_index] = index - stack_index
             stack.append([temp, index])
         return ans
+
+
+sol = Solution()
+print(sol.dailyTemperatures(temperatures=[73, 74, 75, 71, 69, 72, 76, 73]))
+print(sol.dailyTemperatures(temperatures=[30, 40, 50, 60]))
+print(sol.dailyTemperatures(temperatures=[30, 60, 90]))
 
 """
 Algorithm:
@@ -23,4 +29,3 @@ ans list.
 Time Complexity:
 Since we only go through temperatures once, the time is O(n).
 """
-

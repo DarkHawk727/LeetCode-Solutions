@@ -15,6 +15,11 @@ class Solution:
         return res.values()
 
 
+sol = Solution()
+print(sol.groupAnagrams(strs=["eat", "tea", "tan", "ate", "nat", "bat"]))
+print(sol.groupAnagrams(strs=[""]))
+print(sol.groupAnagrams(strs=["a"]))
+
 """
 Algorithm:
 We create a dictionary of the following format:

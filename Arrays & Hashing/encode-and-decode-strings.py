@@ -24,6 +24,10 @@ class Solution:
         return decoded
 
 
+sol = Solution()
+print(sol.encode(strs=["lint", "code", "love", "you"]))
+print(sol.encode(strs=["we", "say", ":", "yes"]))
+
 """
 Algorithm:
 For the encoding step we prepend the length and then a # before each word and

@@ -4,6 +4,11 @@ class Solution:
         return s == s[::-1]
 
 
+sol = Solution()
+print(sol.isPalindrome(s="A man, a plan, a canal: Panama"))
+print(sol.isPalindrome(s="race a car"))
+print(sol.isPalindrome(s=" "))
+
 """
 Algorithm:
 Filter the string bt all alphanumeric characters and make them lower case.

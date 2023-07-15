@@ -11,6 +11,11 @@ class Solution:
         return False
 
 
+sol = Solution()
+print(sol.containsDuplicate(nums=[1, 2, 3, 1]))
+print(sol.containsDuplicate(nums=[1, 2, 3, 4]))
+print(sol.containsDuplicate(nums=[1, 1, 1, 3, 3, 4, 3, 2, 4, 2]))
+
 """
 Algorithm:
 We want to go through each number in nums and add it to a set, if we encounter 
