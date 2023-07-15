@@ -42,7 +42,7 @@ Explanation of the time complexity.
   - [X] TwoSum II Input Array Is Sorted
   - [ ] 3Sum
   - [ ] Container With Most Water
-  - [ ] Trapping Rain Water
+  - [ ] Trapping Rain Water [Hard]
 - **Stack**
   - [X] Valid Parentheses
   - [X] Min Stack
@@ -50,7 +50,7 @@ Explanation of the time complexity.
   - [X] Generate Parentheses
   - [X] Daily Temperatures
   - [X] Car Fleet
-  - [ ] Largest Rectangle in Histogram
+  - [ ] Largest Rectangle in Histogram [Hard]
 - **Binary Search**
   - [ ] Binary Search
   - [ ] Search a 2-D Matrix
@@ -58,14 +58,14 @@ Explanation of the time complexity.
   - [ ] Find Minimum In Rotated Sorted Array
   - [ ] Search In Rotated Sorted Array
   - [ ] Time Based Key Value Store
-  - [ ] Median of Two Sorted Arrays
+  - [ ] Median of Two Sorted Arrays [Hard]
 - **Sliding Window**
   - [ ] Best Time to Buy and Sell Stock
   - [ ] Longest Substring Without Repeating Characters
   - [ ] Longest Repeating Character Replacement
   - [ ] Permutation In String
-  - [ ] Minimum Window Substring
-  - [ ] Sliding Window Maximum
+  - [ ] Minimum Window Substring [Hard]
+  - [ ] Sliding Window Maximum [Hard]
 - **Linked List**
   - [ ] Reverse Linked List
   - [ ] Merge Two Sorted Lists
@@ -76,8 +76,8 @@ Explanation of the time complexity.
   - [ ] Linked List Cycle
   - [ ] Find The Duplicate Number
   - [ ] LRU Cache
-  - [ ] Merge K Sorted Lists
-  - [ ] Reverse Nodes In K Group
+  - [ ] Merge K Sorted Lists [Hard]
+  - [ ] Reverse Nodes In K Group [Hard]
 - **Trees**
   - [ ] Invert Binary Tree
   - [ ] Maximum Depth of Binary Tree
@@ -92,12 +92,12 @@ Explanation of the time complexity.
   - [ ] Validate Binary Search Tree
   - [ ] Kth Smallest Element In a Bst
   - [ ] Construct Binary Tree From Preorder And Inorder Traversal
-  - [ ] Binary Tree Maximum Path Sum
-  - [ ] Serialize And Deserialize Binary Tree
+  - [ ] Binary Tree Maximum Path Sum [Hard]
+  - [ ] Serialize And Deserialize Binary Tree [Hard]
 - **Tries**
   - [ ] Implement Trie Prefix Tree
   - [ ] Design Add And Search Words Data Structure
-  - [ ] Word Search II
+  - [ ] Word Search II [Hard]
 - **Backtracking**
   - [ ] Subsets
   - [ ] Combination Sum
@@ -107,7 +107,7 @@ Explanation of the time complexity.
   - [ ] Word Search
   - [ ] Palindrome Partitioning
   - [ ] Letter Combinations of a Phone Number
-  - [ ] N Queens
+  - [ ] N Queens [Hard]
 - **Heap/Priority Queu**e
   - [ ] Kth Largest Element In a Stream
   - [ ] Last Stone Weight
@@ -115,7 +115,7 @@ Explanation of the time complexity.
   - [ ] Kth Largest Element In An Array
   - [ ] Task Scheduler
   - [ ] Design Twitter
-  - [ ] Find Median From Data Stream
+  - [ ] Find Median From Data Stream [Hard]
 - **Graphs**
   - [ ] Number of Islands
   - [ ] Clone Graph
@@ -129,7 +129,7 @@ Explanation of the time complexity.
   - [ ] Redundant Connection
   - [ ] Number of Connected Components In An Undirected Graph
   - [ ] Graph Valid Tree
-  - [ ] Word Ladder
+  - [ ] Word Ladder [Hard]
 - **1-D DP**
   - [ ] Climbing Stairs
   - [ ] Min Cost Climbing Stairs
@@ -149,7 +149,7 @@ Explanation of the time complexity.
   - [ ] Non Overlapping Intervals
   - [ ] Meeting Rooms
   - [ ] Meeting Rooms II
-  - [ ] Minimum Interval to Include Each Query
+  - [ ] Minimum Interval to Include Each Query [Hard]
 - **Greedy**
   - [ ] Maximum Subarray
   - [ ] Jump Game
@@ -160,11 +160,11 @@ Explanation of the time complexity.
   - [ ] Partition Labels
   - [ ] Valid Parenthesis String
 - **Advanced Graphs**
-  - [ ] Reconstruct Itinerary
+  - [ ] Reconstruct Itinerary [Hard]
   - [ ] Min Cost to Connect All Points
   - [ ] Network Delay Time
-  - [ ] Swim In Rising Water
-  - [ ] Alien Dictionary
+  - [ ] Swim In Rising Water [Hard]
+  - [ ] Alien Dictionary [Hard]
   - [ ] Cheapest Flights Within K Stops
 - **2-D DP**
   - [ ] Unique Paths
@@ -173,11 +173,11 @@ Explanation of the time complexity.
   - [ ] Coin Change II
   - [ ] Target Sum
   - [ ] Interleaving String
-  - [ ] Longest Increasing Path In a Matrix
-  - [ ] Distinct Subsequences
-  - [ ] Edit Distance
-  - [ ] Burst Balloons
-  - [ ] Regular Expression Matching
+  - [ ] Longest Increasing Path In a Matrix [Hard]
+  - [ ] Distinct Subsequences [Hard]
+  - [ ] Edit Distance [Hard]
+  - [ ] Burst Balloons [Hard]
+  - [ ] Regular Expression Matching [Hard]
 - **Bit Manipulation**
   - [ ] Single Number
   - [ ] Number of 1 Bits
