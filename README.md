@@ -27,7 +27,7 @@ Explanation of the time complexity.
 
 ## Checklist
 
-- ~~**Arrays & Hashing**~~
+- **Arrays & Hashing**
   - [X] Contains Duplicate
   - [X] Valid Anagram
   - [X] Two Sum
@@ -40,7 +40,7 @@ Explanation of the time complexity.
 - **Two Pointers**
   - [X] Valid Palindrome
   - [X] TwoSum II Input Array Is Sorted
-  - [ ] 3Sum
+  - [X] 3Sum
   - [X] Container With Most Water
   - [ ] Trapping Rain Water [Hard]
 - **Stack**
