@@ -52,8 +52,8 @@ Explanation of the time complexity.
   - [X] Car Fleet
   - [ ] Largest Rectangle in Histogram [Hard]
 - **Binary Search**
-  - [ ] Binary Search
-  - [ ] Search a 2-D Matrix
+  - [X] Binary Search
+  - [X] Search a 2-D Matrix
   - [ ] Koko Eating Bananas
   - [ ] Find Minimum In Rotated Sorted Array
   - [ ] Search In Rotated Sorted Array
