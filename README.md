@@ -55,8 +55,8 @@ Explanation of the time complexity.
   - [X] Binary Search
   - [X] Search a 2-D Matrix
   - [X] Koko Eating Bananas
-  - [ ] Find Minimum In Rotated Sorted Array
-  - [ ] Search In Rotated Sorted Array
+  - [X] Find Minimum In Rotated Sorted Array
+  - [X] Search In Rotated Sorted Array
   - [ ] Time Based Key Value Store
   - [ ] Median of Two Sorted Arrays [Hard]
 - **Sliding Window**
