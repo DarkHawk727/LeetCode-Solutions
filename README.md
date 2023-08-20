@@ -57,7 +57,7 @@ Explanation of the time complexity.
   - [X] Koko Eating Bananas
   - [X] Find Minimum In Rotated Sorted Array
   - [X] Search In Rotated Sorted Array
-  - [ ] Time Based Key Value Store
+  - [X] Time Based Key Value Store
   - [ ] Median of Two Sorted Arrays [Hard]
 - **Sliding Window**
   - [ ] Best Time to Buy and Sell Stock
