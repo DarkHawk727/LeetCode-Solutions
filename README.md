@@ -61,7 +61,7 @@ Explanation of the time complexity.
   - [ ] Median of Two Sorted Arrays [Hard]
 - **Sliding Window**
   - [ ] Best Time to Buy and Sell Stock
-  - [ ] Longest Substring Without Repeating Characters
+  - [X] Longest Substring Without Repeating Characters
   - [ ] Longest Repeating Character Replacement
   - [ ] Permutation In String
   - [ ] Minimum Window Substring [Hard]
