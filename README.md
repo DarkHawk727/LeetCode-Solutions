@@ -60,7 +60,7 @@ Explanation of the time complexity.
   - [X] Time Based Key Value Store
   - [ ] Median of Two Sorted Arrays [Hard]
 - **Sliding Window**
-  - [ ] Best Time to Buy and Sell Stock
+  - [X] Best Time to Buy and Sell Stock
   - [X] Longest Substring Without Repeating Characters
   - [ ] Longest Repeating Character Replacement
   - [ ] Permutation In String

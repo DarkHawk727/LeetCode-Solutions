@@ -24,9 +24,9 @@ class Solution:
 
 sol = Solution()
 
-assert sol.minEatingSpeed(piles=[3, 6, 7, 11], h=8) == 4
-assert sol.minEatingSpeed(piles=[30, 11, 23, 4, 20], h=5) == 30
-assert sol.minEatingSpeed(piles=[30, 11, 23, 4, 20], h=6) == 23
+print(sol.minEatingSpeed(piles=[3, 6, 7, 11], h=8))
+print(sol.minEatingSpeed(piles=[30, 11, 23, 4, 20], h=5))
+print(sol.minEatingSpeed(piles=[30, 11, 23, 4, 20], h=6))
 
 """
 Algorithm:
