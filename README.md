@@ -95,7 +95,7 @@ Explanation of the time complexity.
   - [ ] Binary Tree Maximum Path Sum [Hard]
   - [ ] Serialize And Deserialize Binary Tree [Hard]
 - **Tries**
-  - [ ] Implement Trie Prefix Tree
+  - [X] Implement Trie Prefix Tree
   - [ ] Design Add And Search Words Data Structure
   - [ ] Word Search II [Hard]
 - **Backtracking**
