@@ -1,6 +1,6 @@
 # LeetCode-Solutions
 
-I am working through the [neetcode.io](https://neetcode.io/roadmap) roadmap.
+I am working through the [neetcode.io](https://neetcode.io/roadmap) roadmap/courses.
 Each file should be of the following format:
 
 ```py
@@ -37,6 +37,8 @@ Explanation of the time complexity.
   - [X] Valid Sudoku
   - [X] Encode and Decode Strings
   - [X] Longest Consecutive Sequence
+  - [X] Remove Element
+  - [X] Remove Duplicates from Sorted Array
 - **Two Pointers**
   - [X] Valid Palindrome
   - [X] TwoSum II Input Array Is Sorted
