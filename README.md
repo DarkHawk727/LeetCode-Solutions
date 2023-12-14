@@ -39,6 +39,7 @@ Explanation of the time complexity.
   - [X] Longest Consecutive Sequence
   - [X] Remove Element
   - [X] Remove Duplicates from Sorted Array
+  - [X] Concatenation of Array
 - **Two Pointers**
   - [X] Valid Palindrome
   - [X] TwoSum II Input Array Is Sorted
@@ -52,6 +53,7 @@ Explanation of the time complexity.
   - [X] Generate Parentheses
   - [X] Daily Temperatures
   - [X] Car Fleet
+  - [X] Baseball Game
   - [ ] Largest Rectangle in Histogram [Hard]
 - **Binary Search**
   - [X] Binary Search
