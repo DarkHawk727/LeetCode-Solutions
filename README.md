@@ -71,8 +71,10 @@ Explanation of the time complexity.
   - [ ] Minimum Window Substring [Hard]
   - [ ] Sliding Window Maximum [Hard]
 - **Linked List**
-  - [ ] Reverse Linked List
-  - [ ] Merge Two Sorted Lists
+  - [X] Reverse Linked List
+  - [X] Merge Two Sorted Lists
+  - [X] Design Linked List
+  - [X] Design Browser History
   - [ ] Reorder List
   - [ ] Remove N^th^ Node from End of List
   - [ ] Copy List With Random Pointer
