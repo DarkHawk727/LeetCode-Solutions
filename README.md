@@ -114,7 +114,7 @@ Explanation of the time complexity.
   - [ ] Palindrome Partitioning
   - [ ] Letter Combinations of a Phone Number
   - [ ] N Queens [Hard]
-- **Heap/Priority Queu**e
+- **Heap/Priority Queue**
   - [ ] Kth Largest Element In a Stream
   - [ ] Last Stone Weight
   - [ ] K Closest Points to Origin
