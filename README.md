@@ -203,3 +203,4 @@ Explanation of the time complexity.
   - [ ] Detect Squares
 - **Miscellaneous**:
   - [X] Number of Students Unable to Eat Lunch
+  - [X] Score of a String
