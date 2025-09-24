@@ -201,3 +201,5 @@ Explanation of the time complexity.
   - [ ] `Pow(x, n)`
   - [ ] Multiply Strings
   - [ ] Detect Squares
+- **Miscellaneous**:
+  - [X] Number of Students Unable to Eat Lunch
