@@ -95,3 +95,7 @@ tail = newLastNode
 | Finding an element   | $O(n)$          |                                                     |
 | Adding elements | $O(1)$          | This assumes we have a pointer directly to the end. Adding elements to the middle is usually just $O(n)$. |
 | Deleting elements    | $O(1)$          | This assumes we have a pointer to the desired node. |
+
+
+### Queues
+
