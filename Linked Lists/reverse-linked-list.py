@@ -1,4 +1,5 @@
 from __future__ import annotations
+
 from typing import Optional
 
 
@@ -23,17 +24,14 @@ class ListNode:
 
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if not head:
-            return None
-        else:
-            ans = ListNode(val=head.val, next=None)
-            if head.next:
-                current = head.next
-                while current.next:
-                    ans = ListNode(val=current.val, next=ans)
-                    current = current.next
-                ans = ListNode(val=current.val, next=ans)
-            return ans
+        prev = None
+        curr = head
+        while curr:
+            nxt = curr.next
+            curr.next = prev
+            prev = curr
+            curr = nxt
+        return prev
 
 
 sol = Solution()
