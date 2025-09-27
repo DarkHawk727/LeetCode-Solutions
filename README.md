@@ -137,7 +137,7 @@ Explanation of the time complexity.
   - [ ] Graph Valid Tree
   - [ ] Word Ladder [Hard]
 - **1-D DP**
-  - [ ] Climbing Stairs
+  - [X] Climbing Stairs
   - [ ] Min Cost Climbing Stairs
   - [ ] House Robber
   - [ ] House Robber II
